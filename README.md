@@ -6,7 +6,7 @@ The initial configuration was generated using [STM32CubeMX](https://www.st.com/e
 
 The project structure was done by the [GNU ARM Eclipse plugin](https://gnu-mcu-eclipse.github.io). 
 
-The board used is the STM32F4 Disc1 (using the STM32F407VG).
+The board used is the STM32F4 Discovery (using the STM32F407VG).
 
 
 

@@ -54,6 +54,7 @@
 
 /* USER CODE BEGIN Includes */
 #include "usbd_cdc_if.h"
+#include "arm_math.h"
 #include <string.h>
 /* USER CODE END Includes */
 
